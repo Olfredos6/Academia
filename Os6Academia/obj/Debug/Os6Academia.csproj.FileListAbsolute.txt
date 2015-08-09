@@ -1,0 +1,6 @@
+c:\users\os6\documents\visual studio 2013\Projects\Os6Academia\Os6Academia\bin\Os6Academia.dll.config
+c:\users\os6\documents\visual studio 2013\Projects\Os6Academia\Os6Academia\bin\Os6Academia.dll
+c:\users\os6\documents\visual studio 2013\Projects\Os6Academia\Os6Academia\bin\Os6Academia.pdb
+c:\users\os6\documents\visual studio 2013\Projects\Os6Academia\Os6Academia\obj\Debug\Os6Academia.csprojResolveAssemblyReference.cache
+c:\users\os6\documents\visual studio 2013\Projects\Os6Academia\Os6Academia\obj\Debug\Os6Academia.dll
+c:\users\os6\documents\visual studio 2013\Projects\Os6Academia\Os6Academia\obj\Debug\Os6Academia.pdb
